@@ -14,6 +14,5 @@
   "author": "Anita Yadav",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.24.0"
   }
 }
