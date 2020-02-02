@@ -1,0 +1,19 @@
+{
+  "name": "js_assignment",
+  "version": "1.0.0",
+  "description": "It is an assignment which I have to complete using javascript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "javascript",
+    "npm"
+  ],
+  "author": "Anita Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
